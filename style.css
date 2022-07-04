@@ -1,6 +1,7 @@
 body{
-  font-family: 'Poppins', sans-serif;
   margin: 0;
+  font-family: 'Poppins', sans-serif;
+  
 }
 h1{
   font-size:50px;
@@ -18,10 +19,11 @@ h2{
 }
 .half-width{
   width:50%;
+  margin: 5%;
   padding-left:7%
 }
 .half-width img{ 
-  width:70%;
+  width:100%;
 }
 .link-button{
   text-decoration: none;
@@ -61,4 +63,7 @@ h2{
 }
 #baby-web-developer{
   border-left: 7px solid blue;
+}
+footer p{
+  text-align: center;
 }
